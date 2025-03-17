@@ -3,6 +3,10 @@ The repository for an Inferential Statistics project using a dataset on Red Wine
 
 The notebooks are separated as follows.
 
+The dataset is located in the "Data" folder.
+
+Example output csv files from the code are also stored.
+
 ## 1. Exploratory Data Analysis (EDA)
 - Histograms.
 - Summary Statistics.
