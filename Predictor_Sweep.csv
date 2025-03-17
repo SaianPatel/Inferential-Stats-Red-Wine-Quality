@@ -1,0 +1,166 @@
+features,R_squared
+"volatile acidity, sulphates, alcohol",0.335897316
+"volatile acidity, total sulfur dioxide, alcohol",0.323117623
+"volatile acidity, pH, alcohol",0.322713162
+"fixed acidity, volatile acidity, alcohol",0.322477669
+"volatile acidity, density, alcohol",0.318864872
+"volatile acidity, free sulfur dioxide, alcohol",0.317637714
+"volatile acidity, chlorides, alcohol",0.317363375
+"volatile acidity, citric acid, alcohol",0.317188225
+"volatile acidity, residual sugar, alcohol",0.317012084
+"chlorides, sulphates, alcohol",0.283843503
+"citric acid, sulphates, alcohol",0.283629558
+"fixed acidity, sulphates, alcohol",0.283431463
+"pH, sulphates, alcohol",0.283322836
+"total sulfur dioxide, sulphates, alcohol",0.280407533
+"free sulfur dioxide, sulphates, alcohol",0.270783071
+"density, sulphates, alcohol",0.270488271
+"residual sugar, sulphates, alcohol",0.26993534
+"citric acid, total sulfur dioxide, alcohol",0.267339285
+"citric acid, pH, alcohol",0.262367272
+"citric acid, chlorides, alcohol",0.261924774
+"total sulfur dioxide, pH, alcohol",0.260702764
+"fixed acidity, citric acid, alcohol",0.259560724
+"citric acid, residual sugar, alcohol",0.258362918
+"citric acid, density, alcohol",0.25766849
+"citric acid, free sulfur dioxide, alcohol",0.257462615
+"chlorides, pH, alcohol",0.255932213
+"fixed acidity, pH, alcohol",0.255783668
+"fixed acidity, total sulfur dioxide, alcohol",0.255240362
+"fixed acidity, density, alcohol",0.254280614
+"density, pH, alcohol",0.252752669
+"residual sugar, pH, alcohol",0.252502933
+"free sulfur dioxide, pH, alcohol",0.252044865
+"fixed acidity, chlorides, alcohol",0.251727846
+"fixed acidity, residual sugar, alcohol",0.250964425
+"fixed acidity, free sulfur dioxide, alcohol",0.250407483
+"total sulfur dioxide, density, alcohol",0.239222164
+"free sulfur dioxide, total sulfur dioxide, alcohol",0.237860091
+"chlorides, total sulfur dioxide, alcohol",0.235246705
+"residual sugar, total sulfur dioxide, alcohol",0.234846083
+"residual sugar, density, alcohol",0.23340794
+"chlorides, density, alcohol",0.232749145
+"free sulfur dioxide, density, alcohol",0.231897628
+"chlorides, free sulfur dioxide, alcohol",0.22764047
+"residual sugar, chlorides, alcohol",0.22734246
+"residual sugar, free sulfur dioxide, alcohol",0.227054845
+"fixed acidity, volatile acidity, density",0.218784482
+"volatile acidity, density, sulphates",0.213986859
+"volatile acidity, chlorides, sulphates",0.209927806
+"volatile acidity, total sulfur dioxide, sulphates",0.204119205
+"volatile acidity, total sulfur dioxide, density",0.201070007
+"fixed acidity, density, sulphates",0.195537808
+"volatile acidity, citric acid, density",0.189946618
+"volatile acidity, chlorides, total sulfur dioxide",0.186491405
+"volatile acidity, residual sugar, density",0.186408437
+"volatile acidity, chlorides, density",0.185600621
+"volatile acidity, free sulfur dioxide, density",0.183619288
+"volatile acidity, free sulfur dioxide, total sulfur dioxide",0.181248372
+"volatile acidity, density, pH",0.180891008
+"volatile acidity, free sulfur dioxide, sulphates",0.180438391
+"volatile acidity, pH, sulphates",0.179865855
+"volatile acidity, residual sugar, total sulfur dioxide",0.178997612
+"volatile acidity, citric acid, total sulfur dioxide",0.17752548
+"volatile acidity, total sulfur dioxide, pH",0.177237882
+"volatile acidity, citric acid, sulphates",0.176915823
+"fixed acidity, volatile acidity, total sulfur dioxide",0.176870349
+"volatile acidity, residual sugar, sulphates",0.176691219
+"fixed acidity, volatile acidity, sulphates",0.17654013
+"citric acid, density, sulphates",0.168173126
+"volatile acidity, chlorides, free sulfur dioxide",0.166522582
+"volatile acidity, citric acid, chlorides",0.165585035
+"fixed acidity, volatile acidity, chlorides",0.164964605
+"volatile acidity, residual sugar, chlorides",0.164009333
+"volatile acidity, chlorides, pH",0.1636191
+"citric acid, total sulfur dioxide, density",0.158833091
+"fixed acidity, volatile acidity, pH",0.157878868
+"volatile acidity, free sulfur dioxide, pH",0.157072361
+"volatile acidity, residual sugar, free sulfur dioxide",0.156167715
+"chlorides, total sulfur dioxide, sulphates",0.155857753
+"fixed acidity, volatile acidity, free sulfur dioxide",0.155796461
+"volatile acidity, citric acid, free sulfur dioxide",0.155603842
+"fixed acidity, citric acid, density",0.1555981
+"fixed acidity, residual sugar, density",0.155126215
+"volatile acidity, citric acid, pH",0.155016631
+"volatile acidity, residual sugar, pH",0.154072283
+"fixed acidity, volatile acidity, residual sugar",0.153287306
+"fixed acidity, volatile acidity, citric acid",0.153176147
+"citric acid, chlorides, sulphates",0.152974537
+"volatile acidity, citric acid, residual sugar",0.152852207
+"chlorides, density, sulphates",0.152517209
+"fixed acidity, density, pH",0.148065373
+"citric acid, chlorides, density",0.147881141
+"fixed acidity, total sulfur dioxide, density",0.146526828
+"total sulfur dioxide, density, sulphates",0.14252844
+"fixed acidity, chlorides, density",0.141487843
+"fixed acidity, free sulfur dioxide, density",0.135446425
+"citric acid, residual sugar, density",0.133564699
+"citric acid, free sulfur dioxide, density",0.129114909
+"citric acid, density, pH",0.128479243
+"fixed acidity, chlorides, sulphates",0.127913397
+"citric acid, total sulfur dioxide, sulphates",0.127297297
+"chlorides, free sulfur dioxide, sulphates",0.125009865
+"chlorides, pH, sulphates",0.124123309
+"residual sugar, chlorides, sulphates",0.121173372
+"residual sugar, density, sulphates",0.11841313
+"citric acid, chlorides, total sulfur dioxide",0.117841166
+"density, pH, sulphates",0.115993711
+"free sulfur dioxide, density, sulphates",0.114195416
+"free sulfur dioxide, total sulfur dioxide, sulphates",0.109744149
+"fixed acidity, total sulfur dioxide, sulphates",0.104743507
+"residual sugar, total sulfur dioxide, sulphates",0.104482699
+"citric acid, free sulfur dioxide, total sulfur dioxide",0.104300133
+"total sulfur dioxide, pH, sulphates",0.102051644
+"citric acid, pH, sulphates",0.094415553
+"fixed acidity, citric acid, total sulfur dioxide",0.094201918
+"citric acid, total sulfur dioxide, pH",0.093019243
+"citric acid, free sulfur dioxide, sulphates",0.090021788
+"citric acid, residual sugar, total sulfur dioxide",0.089000989
+"fixed acidity, citric acid, sulphates",0.088325932
+"citric acid, residual sugar, sulphates",0.087516606
+"fixed acidity, citric acid, chlorides",0.085569829
+"citric acid, chlorides, pH",0.085191653
+"citric acid, chlorides, free sulfur dioxide",0.084345211
+"citric acid, residual sugar, chlorides",0.083413005
+"total sulfur dioxide, density, pH",0.078224809
+"residual sugar, total sulfur dioxide, density",0.074075211
+"fixed acidity, pH, sulphates",0.073159105
+"fixed acidity, free sulfur dioxide, sulphates",0.072128176
+"fixed acidity, residual sugar, sulphates",0.0695126
+"chlorides, total sulfur dioxide, density",0.06864199
+"residual sugar, free sulfur dioxide, sulphates",0.067871611
+"free sulfur dioxide, total sulfur dioxide, density",0.067464582
+"free sulfur dioxide, pH, sulphates",0.06727214
+"residual sugar, pH, sulphates",0.063407926
+"fixed acidity, chlorides, total sulfur dioxide",0.062265014
+"chlorides, density, pH",0.061934896
+"chlorides, total sulfur dioxide, pH",0.059857222
+"citric acid, free sulfur dioxide, pH",0.058847313
+"citric acid, residual sugar, pH",0.057547812
+"chlorides, free sulfur dioxide, total sulfur dioxide",0.057525175
+"fixed acidity, citric acid, pH",0.057219493
+"fixed acidity, free sulfur dioxide, total sulfur dioxide",0.057031486
+"fixed acidity, citric acid, free sulfur dioxide",0.054539223
+"residual sugar, density, pH",0.053681686
+"fixed acidity, citric acid, residual sugar",0.052998386
+"citric acid, residual sugar, free sulfur dioxide",0.052748905
+"residual sugar, chlorides, total sulfur dioxide",0.052104707
+"free sulfur dioxide, total sulfur dioxide, pH",0.051318284
+"free sulfur dioxide, density, pH",0.048366952
+"fixed acidity, residual sugar, total sulfur dioxide",0.046481191
+"residual sugar, chlorides, density",0.046094171
+"residual sugar, free sulfur dioxide, total sulfur dioxide",0.045937879
+"fixed acidity, total sulfur dioxide, pH",0.045038432
+"chlorides, free sulfur dioxide, density",0.042632711
+"residual sugar, free sulfur dioxide, density",0.042520308
+"residual sugar, total sulfur dioxide, pH",0.041431365
+"fixed acidity, chlorides, free sulfur dioxide",0.036159367
+"fixed acidity, residual sugar, chlorides",0.035347457
+"fixed acidity, chlorides, pH",0.035317287
+"chlorides, free sulfur dioxide, pH",0.027544897
+"residual sugar, chlorides, pH",0.025894163
+"residual sugar, chlorides, free sulfur dioxide",0.020060551
+"fixed acidity, free sulfur dioxide, pH",0.017667594
+"fixed acidity, residual sugar, pH",0.016754485
+"fixed acidity, residual sugar, free sulfur dioxide",0.016449717
+"residual sugar, free sulfur dioxide, pH",0.005847364
